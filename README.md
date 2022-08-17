@@ -19,7 +19,7 @@
 [<img align="left" alt="css" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="nodejs" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="react" width="30px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-256.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="figma" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="figma" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
