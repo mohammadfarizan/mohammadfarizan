@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### - 🔭 I am a frontend web developer
+### - 🌱 I’m currently a computer science student in nantong university
 <!--
 **mohammadfarizan/mohammadfarizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
