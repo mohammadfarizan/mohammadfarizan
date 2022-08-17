@@ -26,18 +26,12 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[<img align="left" alt="Instagram" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" style="padding-right:10px;" />](https://instagram.com/_farizan_?igshid=YmMyMTA2M2Y=)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" style="padding-right:10px;" />](https://www.linkedin.com/in/mohammad-farizan-008350214)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[<img align="left" alt="Youtube" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" style="padding-right:10px;" />](https://youtube.com/channel/UCHovSgQPrW9m4AsTt6PVlJw)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/mohammadfarizan
