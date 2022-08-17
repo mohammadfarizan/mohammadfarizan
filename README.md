@@ -10,16 +10,13 @@
 #### 3. [MA Husnul Khotimah](https://mahusnulkhotimah.sch.id/) | MIPA | Kuningan, West Java, Indonesia `2017-2020`
 
 ### Languange and Tools:
-[<img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" style="padding-right:10px;" />]
-[<img align="left" alt="Javascript" width="30px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="padding-right:10px;" />]
-[<img align="left" alt="Html" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" style="padding-right:10px;" />]
-[<img align="left" alt="nodejs" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" style="padding-right:10px;" />]
-[<img align="left" alt="react" width="30px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-256.png" style="padding-right:10px;" />]
-[<img align="left" alt="Figma" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" style="padding-right:10px;" />]
-
+<img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="30px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="padding-right:10px;" />
+<img align="left" alt="Html" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" style="padding-right:10px;" />
+<img align="left" alt="nodejs" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" style="padding-right:10px;" />
+<img align="left" alt="react" width="30px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-256.png" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" style="padding-right:10px;" />
 <br />
-<br />
-
 ### Connect with me:
 [<img align="left" alt="Instagram" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" style="padding-right:10px;" />](https://instagram.com/_farizan_?igshid=YmMyMTA2M2Y=)
 &nbsp;&nbsp;
