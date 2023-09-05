@@ -6,7 +6,7 @@
 - 📫 How to reach me: mohammadfarizan224.com
 ## Education:
 #### 1. [Nantong university](https://en.ntu.edu.cn/) | Bachelor of Computer Science | Jiangsu, China `2020-2024`
-#### 2. [Studidevsecops](https://studidevsecops.com/about-us/) | Intensive bootcamp and certification of junior cyber security analyst | Jakarta, Indonesia '2023'
+#### 2. [Studidevsecops](https://studidevsecops.com/about-us/) | Intensive bootcamp and certification of junior cyber security analyst | Jakarta, Indonesia `2023`
 #### 3. [Binar academy](https://www.binaracademy.com/id/about) | devops intensive bootcamp | Jakarta, Indonesia `2022-2023`
 #### 4. [Catamyst-Codepolitan](https://program.codepolitan.com/catamyst/) | frontend web development intensive bootcamp | Singapore `2022`
 #### 5. [MA Husnul Khotimah](https://mahusnulkhotimah.sch.id/) | MIPA | Kuningan, West Java, Indonesia `2017-2020`
