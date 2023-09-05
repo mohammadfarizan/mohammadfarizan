@@ -1,14 +1,15 @@
 # Hi there! I'm Mohammad Farizan
 ## About Me:
-- 🔭 I’m a freelance frontend web developer
-- 🌱 I’m currently learning cloud
-- 👯 I’m looking to collaborate as frontend web developer or devops developer
+- 🔭 I’m a freelancer
+- 🌱 I’m currently learning pentesting
+- 👯 I’m looking to collaborate
 - 📫 How to reach me: mohammadfarizan224.com
 ## Education:
 #### 1. [Nantong university](https://en.ntu.edu.cn/) | Bachelor of Computer Science | Jiangsu, China `2020-2024`
-#### 2. [Binar academy](https://www.binaracademy.com/id/about) | devops intensive bootcamp | Jakarta, Indonesia `2022-2023`
-#### 3. [Catamyst-Codepolitan](https://program.codepolitan.com/catamyst/) | frontend web development intensive bootcamp | Singapore `2022`
-#### 4. [MA Husnul Khotimah](https://mahusnulkhotimah.sch.id/) | MIPA | Kuningan, West Java, Indonesia `2017-2020`
+#### 2. [Studidevsecops](https://studidevsecops.com/about-us/) | Intensive bootcamp and certification of junior cyber security analyst | Jakarta, Indonesia '2023'
+#### 3. [Binar academy](https://www.binaracademy.com/id/about) | devops intensive bootcamp | Jakarta, Indonesia `2022-2023`
+#### 4. [Catamyst-Codepolitan](https://program.codepolitan.com/catamyst/) | frontend web development intensive bootcamp | Singapore `2022`
+#### 5. [MA Husnul Khotimah](https://mahusnulkhotimah.sch.id/) | MIPA | Kuningan, West Java, Indonesia `2017-2020`
 
 ---
 
